@@ -4,7 +4,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=35&pause=1000&color=9A3BF0&background=FBF8F700&width=500&height=70&lines=Assalamualikum++👋;I'm+Sharmin+Akter+Reka+😃" alt="Typing SVG" />
 </h1>
-<h3 align="center">A passionate Frontend developer from Bangladesh.</h3>
+<h3 align="center">A passionate Frontend developer.</h3>
 <br/>
 <br/>
 <div>
