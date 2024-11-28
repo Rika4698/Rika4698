@@ -53,15 +53,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rika4698&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="rika4698" /></a> </p>
 </div>
 
-<hr/>
-<br />
-<div align="center">
-  <h2>🌟 My Contributions 🌟</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+
 
 
 <!--
@@ -76,5 +68,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...  <hr/>
+<br />
+<div align="center">
+  <h2>🌟 My Contributions 🌟</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 -->
