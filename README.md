@@ -2,8 +2,10 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=35&pause=1000&color=9A3BF0&background=FBF8F700&width=500&height=70&lines=Assalamualikum++👋;I'm+Sharmin+Akter+Reka+😃" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=35&pause=1000&color=9A3BF0&background=FBF8F700&width=500&height=70&lines=Assalamualikum++%F0%9F%91%8B;I'm+Sharmin+Akter+Reka+%F0%9F%98%83" />
 </h1>
+
+
 <h3 align="center">A passionate Frontend developer.</h3>
 <br/>
 <br/>
