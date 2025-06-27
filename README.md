@@ -42,7 +42,7 @@
 ## 📊 Statistics
 <div align="left">
 
-<p><img src="https://streak-stats.demolab.com/?user=rika4698" alt="rika4698 GitHub streak" /></p>
+<p><img src="https://github-readme-streak-stats-eight.vercel.app/?user=rika4698&theme=react&layout=compact" alt="GitHub streak stats" /></p>
 </div>
 
 <div align="left">
