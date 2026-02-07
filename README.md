@@ -1,82 +1,119 @@
+<!--- visit count --->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rika4698&label=Profile%20views&color=0e75b6&style=flat" alt="rika4698" /> </p>
 
+<!--- banner --->
+<img src="./github_banner.png" alt="Hello world">
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=35&pause=1000&color=9A3BF0&background=FBF8F700&width=500&height=70&lines=Assalamualikum++%F0%9F%91%8B;I'm+Sharmin+Akter+Reka+%F0%9F%98%83" />
-</h1>
-
-
-<h3 align="center">A passionate Frontend developer.</h3>
-<br/>
-<br/>
-<div>
-<img align="right" alt="coding" width="500" hight="500" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
-</div>
-
-
-
-- 🌱 I’m currently learning Next.JS, Redux, TypeScript.
-
-- 👯 I’m looking to collaborate on github.
-
-- 💬 Ask me about Web Design or Development.
-
-- 📫 How to reach me **rika_cse_1819@istt.edu.bd**
 <br/>
 
-<h3 align="left" >📨 Connect with me</h3><br/>
-<p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/sharmin-rika-2b17a42b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/sharmin-rika-2b17a42b4" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/sharmin.rika.46/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sharmin.rika.46/" height="30" width="40" /></a>
-</p>
+<!--- title --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Sharmin Akter Reka</h1></summary>
+    <!--- typo --->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Passionate+Front+End+Web+Developer;MERN+Stack+Web+Developer;Full+Stack+Web+Developer" alt="Typing SVG" /></a>
+  </ul>
+</div>
+
 <br/>
 
+---
 
+## 🚀 About Me
 
-<h2 align="left">💻 Technologies that I know</h2><br/>
- <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwind,bootstrap,javascript,react&theme=light" /><br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,vercel,vscode,figma,git,github&theme=light" /><br>
+I am a passionate Full-Stack Web Developer with a strong foundation in the **MERN Stack**. I believe in writing clean, maintainable code and building products that solve real-world problems. I always aim to follow best practices and continuously learn from the ever-evolving web ecosystem.
 
-<br />
+My development journey is powered by **React.js**, **Next.js**, **Node.js**, **Express.js**, **MongoDB**, **Mongoose**, and **Tailwind CSS**. I'm also exploring **TypeScript**, **Prisma**, **Zod**, **Redux Toolkit**, and modern dev tools to enhance the developer experience and code quality.
 
-## 📊 Statistics
-<div align="left">
+---
 
-<p><img src="https://github-readme-streak-stats-eight.vercel.app/?user=rika4698&theme=default&border=true&background=ffffff" alt="rika4698 GitHub streak" /></p>
-</div>
-
-<div align="left">
-  <img  src="https://github-readme-stats.vercel.app/api?username=rika4698&show_icons=true&locale=en" height="180" alt="rika4698" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=rika4698&show_icons=true&locale=en&layout=compact" height="180" alt="rika4698" />
-</div>
-<br />
-<br />
-<div align="left">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rika4698&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="rika4698" /></a> </p>
-</div>
-
-
-
-
-<!--
-**Rika4698/Rika4698** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-//## Hi there 👋
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...  <hr/>
-<br />
-<div align="center">
-  <h2>🌟 My Contributions 🌟</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+<!--- about --->
+## 🕹️ Current Overview
+- 🖥️ I’m currently working on **React.js, Next.js, Typescript and Redux** for frontend development.
+- 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for the backend.
+- 👀 Interests UI/UX, Open Source, SaaS apps, and building developer tools.
+- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
+- 🌐 Explore My Portfolio **[Sharmin Akter Reka](https://sharmin-rika-portfolio.vercel.app/)** and My **[Resume](https://drive.google.com/file/d/1x9H153i-UAfuBle4put4FbePMD2OHZWX/view?usp=drive_link)**
+- 📝 Connect with me on **[LinkedIn](https://www.linkedin.com/in/sharmin-rika-2b17a42b4/)**
+- 📫 Feel free to reach me out **[Email](rika_cse_1819@istt.edu.bd)**
   
-  <br/><br/><br/>
+<br/>
+
+<!--- socials --->
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
+
+<div>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/sharmin-rika-2b17a42b4/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="touhidcodes" height="30" width="40" /></a>
+     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rika_cse_1819@istt.edu.bd" target="_blank">
+    <img 
+        src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
+        width="52" 
+        height="30" 
+        alt="Email"
+    />
+</a>
+    
+  </p>
 </div>
--->
+
+<br/>
+
+<!--- technology --->
+##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
+
+### Languages:
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://github.com/Rika4698)
+
+### CSS Frameworks & Libraries:
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap)](https://github.com/Rika4698)
+
+### JavaScript Frameworks & Libraries:
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express)](https://github.com/Rika4698)
+
+### Database & Model:
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma)](https://github.com/Rika4698)
+
+### Deployment Platform:
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/Rika4698)
+
+### Design & Graphics:
+[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/Rika4698)
+
+### Tools & Technologies:
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,git,github,vscode,postman)](https://github.com/Rika4698)
+
+<br/>
+
+<!--- statistics --->
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+<div align="left">
+
+<p><img src="https://github-readme-streak-stats-eight.vercel.app/?user=rika4698&theme=github_dark&border=true" alt="rika4698 GitHub streak" /></p>
+</div>
+
+<div align="left">
+
+### 🔥 Contribution Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rika4698&theme=github_dark)
+
+### 📈 GitHub Analytics
+<p>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rika4698&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rika4698&theme=github_dark"/>
+</p>
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
