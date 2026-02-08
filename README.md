@@ -35,7 +35,7 @@ My development journey is powered by **React.js**, **Next.js**, **Node.js**, **E
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
 - 🌐 Explore My Portfolio **[Sharmin Akter Reka](https://sharmin-rika-portfolio.vercel.app/)** and My **[Resume](https://drive.google.com/file/d/1x9H153i-UAfuBle4put4FbePMD2OHZWX/view?usp=drive_link)**
 - 📝 Connect with me on **[LinkedIn](https://www.linkedin.com/in/sharmin-rika-2b17a42b4/)**
-- 📫 Feel free to reach me out **[Email](rika_cse_1819@istt.edu.bd)**
+- 📫 Feel free to reach me out **[Email](rekasharmin46@gmail.com)**
   
 <br/>
 
@@ -45,7 +45,7 @@ My development journey is powered by **React.js**, **Next.js**, **Node.js**, **E
 <div>
   <p align="left">
     <a href="https://www.linkedin.com/in/sharmin-rika-2b17a42b4/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="touhidcodes" height="30" width="40" /></a>
-     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rika_cse_1819@istt.edu.bd" target="_blank">
+     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rekasharmin46@gmail.com" target="_blank">
     <img 
         src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
         width="52" 
