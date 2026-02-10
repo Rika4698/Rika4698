@@ -1,5 +1,5 @@
 <!--- visit count --->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rika4698&label=Profile%20views&color=0e75b6&style=flat" alt="rika4698" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Rika4698&label=Profile%20views&color=0e75b6&style=flat" alt="rika4698" /> </p>
 
 <!--- banner --->
 <img src="./github_banner.png" alt="Hello world">
