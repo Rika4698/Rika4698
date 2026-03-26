@@ -44,12 +44,12 @@ My development journey is powered by **React.js**, **Next.js**, **Node.js**, **E
 
 ## 🧠 Problem Solving
 
-<p align="left" style="display: flex; gap: 12px;">
-  <a href="https://www.hackerrank.com/profile/sharmin_rika" target="_blank">
+<p align="left">
+  <a href="https://www.hackerrank.com/profile/sharmin_rika" >
     <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank" />
   </a>
 
-  <a href="https://leetcode.com/u/Rika_46/" target="_blank">
+  <a href="https://leetcode.com/u/Rika_46/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FE7A16?style=for-the-badge&logo=LeetCode" />
   </a>
 </p>
