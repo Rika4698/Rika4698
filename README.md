@@ -44,7 +44,7 @@ My development journey is powered by **React.js**, **Next.js**, **Node.js**, **E
 
 ## 🧠 Problem Solving
 
-<p align="left">
+<p align="left" style="display: flex; gap: 12px;">
   <a href="https://www.hackerrank.com/profile/sharmin_rika" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank" />
   </a>
