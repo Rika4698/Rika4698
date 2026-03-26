@@ -6,6 +6,7 @@
 
 <br/>
 
+
 <!--- title --->
 <div id="user-content-toc">
   <ul align="center">
@@ -38,6 +39,26 @@ My development journey is powered by **React.js**, **Next.js**, **Node.js**, **E
 - 📫 Feel free to reach me out **[Email](rekasharmin46@gmail.com)**
   
 <br/>
+
+---
+
+## 🧠 Problem Solving
+
+<p align="left">
+  <a href="https://www.hackerrank.com/profile/sharmin_rika" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank" />
+  </a>
+
+  <a href="https://leetcode.com/u/Rika_46/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FE7A16?style=for-the-badge&logo=LeetCode" />
+  </a>
+</p>
+
+<!-- LeetCode Stats -->
+<!-- <p align="left">
+  <img src="https://leetcard.jacoblin.cool/your-username?theme=dark&font=Montserrat" />
+</p> -->
+---
 
 <!--- socials --->
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
