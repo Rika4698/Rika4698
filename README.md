@@ -34,7 +34,7 @@ My development journey is powered by **React.js**, **Next.js**, **Node.js**, **E
 - 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for the backend.
 - 👀 Interests UI/UX, Open Source, SaaS apps, and building developer tools.
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
-- 🌐 Explore My Portfolio **[Sharmin Akter Reka](https://sharmin-rika-portfolio.vercel.app/)** and My **[Resume](https://drive.google.com/file/d/1x9H153i-UAfuBle4put4FbePMD2OHZWX/view?usp=drive_link)**
+- 🌐 Explore My Portfolio **[Sharmin Akter Reka](https://sharmin-rika-portfolio.vercel.app/)** and My **[Resume](https://drive.google.com/file/d/1gzvhBbT4sL_64gFgafQhou_8rWTmD11K/view?usp=sharing)**
 - 📝 Connect with me on **[LinkedIn](https://www.linkedin.com/in/sharmin-rika-2b17a42b4/)**
 - 📫 Feel free to reach me out **[Email](rekasharmin46@gmail.com)**
   
