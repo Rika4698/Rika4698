@@ -47,7 +47,7 @@ My development journey is powered by **React.js**, **Next.js**, **Node.js**, **E
 <p align="left">
   <a href="https://www.hackerrank.com/profile/sharmin_rika" >
     <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://leetcode.com/u/Rika_46/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FE7A16?style=for-the-badge&logo=LeetCode" />
@@ -63,20 +63,27 @@ My development journey is powered by **React.js**, **Next.js**, **Node.js**, **E
 <!--- socials --->
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
-<div>
-  <p align="left">
-    <a href="https://www.linkedin.com/in/sharmin-rika-2b17a42b4/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="touhidcodes" height="30" width="40" /></a>
-     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rekasharmin46@gmail.com" target="_blank">
+<p align="left" >
+  
+  <a href="https://www.linkedin.com/in/sharmin-rika-2b17a42b4/" target="_blank">
     <img 
-        src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
-        width="52" 
-        height="30" 
-        alt="Email"
+      src="https://skillicons.dev/icons?i=linkedin" 
+      height="40"  
+      alt="linkedin"
     />
-</a>
-    
-  </p>
-</div>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rekasharmin46@gmail.com" target="_blank">
+    <img 
+      src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
+      height="40" 
+      alt="email"
+      style="background-color: white; border-radius: 6px; padding: 4px;"
+    />
+  </a>
+
+</p>
+
+
 
 <br/>
 
