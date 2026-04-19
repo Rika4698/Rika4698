@@ -105,11 +105,11 @@ My development journey is powered by **React.js**, **Next.js**, **Node.js**, **E
 ### Deployment Platform:
 [![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/Rika4698)
 
-### Design & Graphics:
-[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/Rika4698)
+<!--### Design & Graphics:
+[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/Rika4698)--->
 
 ### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=windows,git,github,vscode,postman)](https://github.com/Rika4698)
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,git,github,vscode,postman,figma)](https://github.com/Rika4698)
 
 <br/>
 
