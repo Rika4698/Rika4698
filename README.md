@@ -122,11 +122,12 @@ My development journey is powered by **React.js**, **Next.js**, **Node.js**, **E
 
 <div align="left">
 
-
+### 🔥 Contribution Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rika4698&theme=github_dark)
 
 ### 📈 GitHub Analytics
 <p>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rika4698&theme=github_dark"/>
+  
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rika4698&theme=github_dark"/>
 </p>
 
