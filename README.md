@@ -116,7 +116,6 @@ My development journey is powered by **React.js**, **Next.js**, **Node.js**, **E
 <!--- statistics --->
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 <div align="left">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rika4698&theme=github_dark&border=true" alt="GitHub Streak" /></a>
 
 </div>
 
@@ -127,7 +126,7 @@ My development journey is powered by **React.js**, **Next.js**, **Node.js**, **E
 
 ### 📈 GitHub Analytics
 <p>
-  
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rika4698&theme=github_dark"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rika4698&theme=github_dark"/>
 </p>
 
